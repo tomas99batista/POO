@@ -1,2 +1,2 @@
 # POO
-POO UA 2017/18 | Java
+Programação Orientada a Objetos UA 2017/18 | Java
